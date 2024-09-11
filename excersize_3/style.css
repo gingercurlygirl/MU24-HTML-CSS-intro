@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(233, 213, 190);
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h2 {
+    font-style: italic;
+    padding-top: 50px;
+    padding-top: 5%;
+}
+
+p {
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    
+}
+footer {
+    border-top: 3px saddlebrown solid;
+}
+footer > p {
+    text-align: center;
+    padding-top: 5%;
+}
